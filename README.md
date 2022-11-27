@@ -6,6 +6,7 @@
 major function：
 
 Using Pytorch to realize the dual channel image classification, it can expand the use of resnet, resnext, vgg, shuffle, mobile and other image classification networks
+
 If it works, welcome star
 
 ## Implementation function:
