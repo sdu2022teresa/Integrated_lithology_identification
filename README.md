@@ -26,8 +26,8 @@ If it works, welcome star
 
 ### Dataset form
  Organization form of data set:
-*single polarization images: train set and test set
-*orthogonal polarization images: train set and test set
+single polarization images --train set and test set
+orthogonal polarization images -- train set and test set
 
 ### train test
 
