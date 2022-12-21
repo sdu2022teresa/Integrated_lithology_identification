@@ -25,7 +25,7 @@ If it works, welcome star
 ## Quick Start
 
 ### Dataset form
- Organization form of data set:
+ Organization form of data set
 --single polarization images
 --orthogonal polarization images
 
